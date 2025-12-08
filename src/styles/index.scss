@@ -6,7 +6,7 @@ iframe {
   display: none;
 }
 
-body {
+html body {
   min-width: 230px;
   max-width: 550px;
   margin: 0 auto;
@@ -23,3 +23,4 @@ body {
   opacity: 0;
   pointer-events: none;
 }
+
