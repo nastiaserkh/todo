@@ -1,6 +1,27 @@
-# React TypeScript Starter Pack
+# React TypeScript Starter Pack (Todo App)
 
-To use this template click `Use this template`
+Small Todo application built with React + TypeScript + Vite. Provides basic features:
+
+- load todos from remote API
+- add, update, delete todos
+- filter by status (all / active / completed)
+
+This project uses a simple students API and requires a user id for requests — see [`USER_ID`](src/api/todos.ts).
+
+Node.js
+
+- Recommended Node.js major version: 20 (see [package.json](package.json) -> mateAcademy.nodejsMajorVersion)
+
+Getting started
+
+1. Install dependencies
+   ```sh
+   npm install
+   ```
+2. Run the app
+   ```sh
+   npm run start
+   ```
 
 ### Available Scripts
 
