@@ -6,6 +6,8 @@ Small Todo application built with React + TypeScript + Vite. Provides basic feat
 - add, update, delete todos
 - filter by status (all / active / completed)
 
+Demo: https://nastiaserkh.github.io/todo/
+
 This project uses a simple students API and requires a user id for requests — see [`USER_ID`](src/api/todos.ts).
 
 Node.js
